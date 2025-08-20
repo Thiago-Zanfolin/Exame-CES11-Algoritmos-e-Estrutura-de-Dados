@@ -22,6 +22,7 @@ Esclarecendo: o programa realizará as quatro tarefas seguintes.
 - Obter ordenação topológica.
 - Calcular o tempo mínimo.
 - Mostrar o caminho crítico.
+  
 Entrada:
 Número máximo de tarefas: 52.
 Descrição das tarefas: até 30 caracteres.
